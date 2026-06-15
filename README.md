@@ -2,6 +2,8 @@
 
 An AI assistant plugin for [HFS (HTTP File Server)](https://github.com/rejetto/hfs). Adds a floating chat bubble to every HFS page that lets users talk to a locally-running [Ollama](https://ollama.com) model, with optional voice input via Whisper and automatic web search via DuckDuckGo.
 
+![hfs-ai chat bubble](screenshot.png)
+
 ---
 
 ## Features
